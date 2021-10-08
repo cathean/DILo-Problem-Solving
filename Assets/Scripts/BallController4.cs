@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BallControler4 : MonoBehaviour
+public class BallController4 : MonoBehaviour
 {
     public float speed = 5f;
 
